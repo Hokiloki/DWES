@@ -1,0 +1,21 @@
+# Node/Web/Godot
+node_modules/
+dist/
+build/
+coverage/
+.vscode/*.code-workspace
+.vscode/settings.local.json
+.env
+
+# Godot
+.export/
+.import/
+*.import
+.godot/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
